@@ -1,6 +1,6 @@
 # Sprunki Splanki: The Bouncing Puzzle Adventure
 
-![Sprunki Splanki Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-splanki/refs/heads/main/sprunki-splanki-gameplay.gif "Sprunki Splanki in Action")
+![Sprunki Splanki Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-splanki/refs/heads/main/sprunki-splanki.png "Sprunki Splanki")
 
 👉👉 Play Now - Original Edition: [Sprunki Splanki](https://sprunksters.com/sprunki-splanki/ "Sprunki Splanki")
 
